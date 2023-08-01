@@ -1,0 +1,205 @@
+$theme-name: "green";
+// 主题color
+$theme-color:#00B074;
+// 主题背景颜色
+$theme-bg-color: #fff;
+// 主题背景图
+$theme-bg-has-image: false;
+//头部header背景色
+$header-bg-color: #fff;
+$theme-bg-color-gaoguang: #fff;
+// 导航按钮颜色
+$navigation-btn-color: #00B074;
+//头部header box-shadow 阴影
+$header-shadow-color: rbga(0, 0, 0, 0.2);
+//头部header-tabs box-shadow 阴影
+$header-tabs-shadow-color: rgba(101, 107, 119, 0.1);
+//头部左边背景颜色
+$header-left-color: #00B074;
+//侧边栏背景色
+// $layout-bg-color:linear-gradient(#F48208, #fc781a);
+$layout-bg-color: #fff;
+//头部下拉框背景颜色
+$header-select-bg: #F6F8FA;
+$header-select-text: #484a4f;
+
+// tab标签页
+$theme-multiple-page-control-color: #262834;
+$theme-multiple-page-control-color-active: #00B074;
+$theme-multiple-page-control-nav-prev-color: #cfd7e5;
+$theme-multiple-page-control-nav-next-color: #cfd7e5;
+$theme-multiple-page-control-border-color: #cfd7e5;
+$theme-multiple-page-control-border-color-active: #fff;
+$theme-multiple-page-control-background-color: rgba(#000, 0.03);
+$theme-multiple-page-control-background-color-active: #fff;
+
+// 顶栏上的文字颜色
+$theme-header-item-color: #262834;
+$theme-header-item-background-color: transparent;
+// 顶栏上的项目在 hover 时
+$theme-header-item-color-hover: #00B074;
+$theme-header-item-background-color-hover: #00B074;
+
+// 侧边栏上的文字颜色
+$theme-aside-item-color: #262834;
+$theme-aside-item-background-color: transparent;
+// 侧边栏上的项目在 hover 时
+$theme-aside-item-color-hover: #00B074;
+$theme-aside-item-background-color-hover: rgba(255, 255, 255, 0.15);
+// 侧边栏上的项目在 focus 时
+$theme-aside-item-color-focus: #00B074;
+$theme-aside-item-background-color-focus: rgba(255, 255, 255, 0.15);
+// 侧边栏上的项目在 active 时
+$theme-aside-item-color-active: #00B074;
+$theme-aside-item-background-color-active: #F2F3F5;
+$pane-left-bg: #ffffff;
+$splitter-pane: #ebeef5;
+// 历史数据下载
+$history-color: #ffffff;
+$search-title-color: #000000;
+// 弹出窗颜色配置
+$el-dialog__header: #00B074;
+
+//文字边框颜色
+$theme-text-border: #00B074; //按钮primary颜色
+//文字按钮hover时
+$theme-textbtn-primary-bg-hover: #666;
+
+// 文字primary颜色
+$theme-button-primary-text: #fff;
+//文字primary颜色hover时
+$theme-button-primary-text-hover: #fff;
+//文字primary颜色focus时
+$theme-button-primary-text-focus: #fff;
+//文字primary颜色active时
+$theme-button-primary-text-active: #fff;
+// 文字primary颜色禁用时
+$theme-button-primary-text-disabled: #ECF4F8;
+
+// 文字default颜色
+$theme-button-default-text: #595757;
+//文字default颜色hover时
+$theme-button-default-text-hover: #595757;
+//文字default颜色focus时
+$theme-button-default-text-focus: #595757;
+//文字default颜色active时
+$theme-button-default-text-active: #595757;
+// 文字default颜色禁用时
+$theme-button-default-text-disabled: #BBBBBB;
+
+//按钮primary颜色
+$theme-button-primary-bg: #00B074 ;
+//按钮hover时
+$theme-button-primary-bg-hover: #00CD87;
+//按钮focus时
+$theme-button-primary-bg-focus: #00CD87;
+//按钮active时
+$theme-button-primary-bg-active: #00CD87;
+// 按钮禁用时
+$theme-button-primary-bg-disabled: #7FD7B9;
+
+//按钮default颜色
+// $theme-button-default-bg: linear-gradient(180deg, #9098a0, #6f757b);
+
+//按钮default颜色
+$theme-button-default-bg:#F2F3F5;
+//按钮hover时
+$theme-button-default-bg-hover:#E8E6E6;
+//按钮focus时
+$theme-button-default-bg-focus:#E8E6E6;
+//按钮active时
+$theme-button-default-bg-active:#E8E6E6;
+//按钮禁用时
+$theme-button-default-bg-disabled:#F2F3F5;
+
+//按钮info颜色
+$theme-button-info-bg: #fff;
+//按钮hover时
+$theme-button-info-bg-hover: #fff5e7;
+//按钮focus时
+$theme-button-info-bg-focus: #fff5e7;
+//按钮active时
+$theme-button-info-bg-active: #fff5e7;
+//按钮内文字active时
+$theme-button-info-text-hover: #00B074;
+
+//组织架构背景色
+$theme-tree-bg: #F2F3F5;
+
+//列表hover颜色
+$theme-list-bg-hover: #EDFEF9;
+
+//启用
+$theme-default: #00B074;
+//禁用
+$theme-error: #ff0000;
+
+//展开收起
+$theme-arrow-dowm-up: #00B074;
+
+//进度条
+$theme-progress: linear-gradient(-90deg, #00B074, #00B074);
+
+//查询区背景
+$theme-search-bg: #fff;
+
+//首页数字渐变色
+$theme-home-number-bg:linear-gradient(#00B074, #00B074);
+
+//抽屉中表单背景色
+$theme-dForm-bg: #F6F8FA;
+
+//首页七个方块的标题字体颜色
+$in-car-word-color: #232832;
+
+//首页数字渐变色
+$theme-home-number-bg:linear-gradient(#00B074, #00B074);
+// 首页累计模块颜色
+$theme-home-lj-bg: #fff;
+$theme-home-lj: #EFF4F8;
+$theme-home-pt: #EFF4F8;
+$theme-home-font1: #666D7A;
+$theme-home-font2: #232832;
+$theme-home-line: #EFF4F8;
+
+//诊断核心指标概览
+$theme-home-zdhxzb-font1: #666D7A;
+// 诊断故障码
+$theme-home-zdgzm-libg: linear-gradient(0deg, #9098A0, #6F757B);
+$popup-bg:#fff;
+$dialog-header-color:#666D7A;
+
+// 输入输出控制
+$control-color:#232832;
+$control-title-bg:#F6F8FA;
+$control-content-bg:#fff;
+
+$count-color1:#00B074;
+$count-color2:#2E8FFF;
+$count-color3:#666D7A;
+$count-color4:#00B074;
+
+$switch-default:#a1a9b1;
+
+$input-placeholder-color: #ACBACE;
+// 输入框禁用时默认字颜色
+$input-placeholder-color_disabled:#999999;
+
+// 输入选择框
+$input-bg-color:#F2F3F5;
+$input-bg-color-hover:#EDFEF9;
+$input-bg-color-disabled:#C6C6C6;
+
+// 菜单选中背景
+$el-menu-item-active-bg: #F2F3F5;
+
+// 图标彩色
+$icon-active-color:#00CD87;
+// 图标灰色
+$icon-color:#929292;
+
+// 下拉背景
+$select-dropdown-bg:#F5F7FA;
+
+// 首页箭头上升
+$home-rise:#599AFF;

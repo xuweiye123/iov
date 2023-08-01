@@ -1,0 +1,20 @@
+.content-page{
+  padding:11vh 20px 2vh 20px;
+  min-width: 1000px;
+  color: #fff;
+}
+.module-title{
+  display: flex;
+  background: url('../assets/month/sj.png') no-repeat right 20px;
+  height: 30px;
+  line-height: 30px;
+  border-bottom: 1px solid #112B5F;
+  padding-right: 10px;
+  .montitle-1{
+    flex: 1;
+  }
+  .montitle-2{
+    color: #5C7C95;
+    font-weight: normal;
+  }
+}

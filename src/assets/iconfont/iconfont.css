@@ -1,0 +1,1690 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3883465 */
+  src: url('//at.alicdn.com/t/c/font_3883465_up1une8806.woff2?t=1688115302799') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3883465_up1une8806.woff?t=1688115302799') format('woff'),
+       url('//at.alicdn.com/t/c/font_3883465_up1une8806.ttf?t=1688115302799') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shangchuan:before {
+  content: "\e796";
+}
+
+.icon-shangchuanjilu:before {
+  content: "\e797";
+}
+
+.icon-electricalInspection:before {
+  content: "\e793";
+}
+
+.icon-ota:before {
+  content: "\e794";
+}
+
+.icon-certificateAssets:before {
+  content: "\e795";
+}
+
+.icon-fuzhushebei:before {
+  content: "\e790";
+}
+
+.icon-zhongkongmensuo:before {
+  content: "\e791";
+}
+
+.icon-yuguaxidi:before {
+  content: "\e792";
+}
+
+.icon-faultDataQuery:before {
+  content: "\e78f";
+}
+
+.icon-gbHistoryDataDownload:before {
+  content: "\e78e";
+}
+
+.icon-forwardFilter:before {
+  content: "\e69c";
+}
+
+.icon-gbLoginAndLogoutQuery:before {
+  content: "\e66a";
+}
+
+.icon-gbForwardDataDownload:before {
+  content: "\e675";
+}
+
+.icon-gbForwardDataQuery:before {
+  content: "\e688";
+}
+
+.icon-jichuxinxi:before {
+  content: "\e78d";
+}
+
+.icon-taiyaxinxi:before {
+  content: "\e789";
+}
+
+.icon-dianchixinxi:before {
+  content: "\e78a";
+}
+
+.icon-xunche:before {
+  content: "\e78b";
+}
+
+.icon-cheliangxinxi:before {
+  content: "\e78c";
+}
+
+.icon-query_TBOX:before {
+  content: "\e774";
+}
+
+.icon-query_dataBase:before {
+  content: "\e788";
+}
+
+.icon-vehicleControl:before {
+  content: "\e773";
+}
+
+.icon-realTimeError:before {
+  content: "\e772";
+}
+
+.icon-mileageSearch:before {
+  content: "\e787";
+}
+
+.icon-faultPush:before {
+  content: "\e77e";
+}
+
+.icon-powerBatteryHistoryDownload:before {
+  content: "\e77f";
+}
+
+.icon-downloadHistoryData:before {
+  content: "\e780";
+}
+
+.icon-interfaceList:before {
+  content: "\e781";
+}
+
+.icon-geofencingPolice:before {
+  content: "\e782";
+}
+
+.icon-geofencingManage:before {
+  content: "\e783";
+}
+
+.icon-powerChangeDetail:before {
+  content: "\e784";
+}
+
+.icon-chargeDetails:before {
+  content: "\e785";
+}
+
+.icon-odomileage:before {
+  content: "\e786";
+}
+
+.icon-historyError:before {
+  content: "\e77d";
+}
+
+.icon-SOClowReport:before {
+  content: "\e775";
+}
+
+.icon-SOClow:before {
+  content: "\e776";
+}
+
+.icon-SOFruleHistoryReport:before {
+  content: "\e777";
+}
+
+.icon-SOFruleManagement:before {
+  content: "\e778";
+}
+
+.icon-definedAlarm:before {
+  content: "\e779";
+}
+
+.icon-faulltRule:before {
+  content: "\e77a";
+}
+
+.icon-powerBatteryFailureHistoryDownload:before {
+  content: "\e77b";
+}
+
+.icon-historySearch:before {
+  content: "\e77c";
+}
+
+.icon-terminalReplaceBind:before {
+  content: "\e742";
+}
+
+.icon-salesInspection:before {
+  content: "\e770";
+}
+
+.icon-offlineCarDetection:before {
+  content: "\e771";
+}
+
+.icon-terminalCommand:before {
+  content: "\e76e";
+}
+
+.icon-terminalBatch:before {
+  content: "\e76f";
+}
+
+.icon-dataDictionary:before {
+  content: "\e76c";
+}
+
+.icon-partsManage:before {
+  content: "\e76d";
+}
+
+.icon-testVehicle:before {
+  content: "\e76b";
+}
+
+.icon-faultMaintenance:before {
+  content: "\e766";
+}
+
+.icon-faultCodeMaintain:before {
+  content: "\e767";
+}
+
+.icon-nationalParameters:before {
+  content: "\e768";
+}
+
+.icon-unicomRealname:before {
+  content: "\e769";
+}
+
+.icon-contact:before {
+  content: "\e76a";
+}
+
+.icon-productType:before {
+  content: "\e75e";
+}
+
+.icon-remoteCall:before {
+  content: "\e75f";
+}
+
+.icon-dbcFileTest:before {
+  content: "\e760";
+}
+
+.icon-simManage:before {
+  content: "\e761";
+}
+
+.icon-terminalInform:before {
+  content: "\e762";
+}
+
+.icon-carSimSeach:before {
+  content: "\e763";
+}
+
+.icon-carRealname:before {
+  content: "\e764";
+}
+
+.icon-carInform:before {
+  content: "\e765";
+}
+
+.icon-codingException:before {
+  content: "\e75d";
+}
+
+.icon-coding:before {
+  content: "\e75c";
+}
+
+.icon-lifeCycle:before {
+  content: "\e661";
+}
+
+.icon-securityLog:before {
+  content: "\e75b";
+}
+
+.icon-realname:before {
+  content: "\e755";
+}
+
+.icon-canMessage:before {
+  content: "\e756";
+}
+
+.icon-faultAlarmRules:before {
+  content: "\e757";
+}
+
+.icon-faultMonitoring:before {
+  content: "\e758";
+}
+
+.icon-historicalData:before {
+  content: "\e759";
+}
+
+.icon-chargManage:before {
+  content: "\e75a";
+}
+
+.icon-statusquery:before {
+  content: "\e753";
+}
+
+.icon-taskdetails:before {
+  content: "\e754";
+}
+
+.icon-ic_car:before {
+  content: "\e740";
+}
+
+.icon-peizhi:before {
+  content: "\e73f";
+}
+
+.icon-ImportReorganization:before {
+  content: "\e741";
+}
+
+.icon-model:before {
+  content: "\e743";
+}
+
+.icon-batteryMange:before {
+  content: "\e744";
+}
+
+.icon-homepage:before {
+  content: "\e745";
+}
+
+.icon-carrepair:before {
+  content: "\e746";
+}
+
+.icon-Specification:before {
+  content: "\e748";
+}
+
+.icon-cellretire:before {
+  content: "\e749";
+}
+
+.icon-configure1:before {
+  content: "\e74a";
+}
+
+.icon-certificate:before {
+  content: "\e74b";
+}
+
+.icon-carsales:before {
+  content: "\e74c";
+}
+
+.icon-earlywarn:before {
+  content: "\e74d";
+}
+
+.icon-batChange:before {
+  content: "\e74e";
+}
+
+.icon-changeRepair:before {
+  content: "\e74f";
+}
+
+.icon-changeOut:before {
+  content: "\e750";
+}
+
+.icon-supplier:before {
+  content: "\e751";
+}
+
+.icon-batChangeStock:before {
+  content: "\e752";
+}
+
+.icon-tboxLog:before {
+  content: "\e72d";
+}
+
+.icon-securityLib:before {
+  content: "\e72e";
+}
+
+.icon-odxFile:before {
+  content: "\e72f";
+}
+
+.icon-ecuLog:before {
+  content: "\e730";
+}
+
+.icon-oneDia:before {
+  content: "\e731";
+}
+
+.icon-writeData:before {
+  content: "\e732";
+}
+
+.icon-taskSetting:before {
+  content: "\e733";
+}
+
+.icon-carmodel:before {
+  content: "\e734";
+}
+
+.icon-ioControl:before {
+  content: "\e735";
+}
+
+.icon-errorreason:before {
+  content: "\e736";
+}
+
+.icon-subsystem:before {
+  content: "\e737";
+}
+
+.icon-fullDataAnalysis:before {
+  content: "\e738";
+}
+
+.icon-subsystemTemplate:before {
+  content: "\e739";
+}
+
+.icon-diagnosis:before {
+  content: "\e73a";
+}
+
+.icon-offlineConfig:before {
+  content: "\e73b";
+}
+
+.icon-faultCode1:before {
+  content: "\e73c";
+}
+
+.icon-caronline:before {
+  content: "\e73d";
+}
+
+.icon-fault:before {
+  content: "\e73e";
+}
+
+.icon-logOperation:before {
+  content: "\e71e";
+}
+
+.icon-faultCode:before {
+  content: "\e71f";
+}
+
+.icon-protocolData:before {
+  content: "\e720";
+}
+
+.icon-stayConfig:before {
+  content: "\e721";
+}
+
+.icon-stayCheck:before {
+  content: "\e722";
+}
+
+.icon-flow:before {
+  content: "\e723";
+}
+
+.icon-protocolPlug:before {
+  content: "\e724";
+}
+
+.icon-forwardVehicle:before {
+  content: "\e725";
+}
+
+.icon-alreadyConfig:before {
+  content: "\e726";
+}
+
+.icon-protocolEquation:before {
+  content: "\e727";
+}
+
+.icon-linkProtocol:before {
+  content: "\e728";
+}
+
+.icon-protocol:before {
+  content: "\e729";
+}
+
+.icon-forwardLink:before {
+  content: "\e72a";
+}
+
+.icon-LogSearch:before {
+  content: "\e72b";
+}
+
+.icon-forwardTarget:before {
+  content: "\e72c";
+}
+
+.icon-guanbi:before {
+  content: "\e719";
+}
+
+.icon-kaitong:before {
+  content: "\e71c";
+}
+
+.icon-vendor:before {
+  content: "\e714";
+}
+
+.icon-Vehicle:before {
+  content: "\e715";
+}
+
+.icon-cellData:before {
+  content: "\e716";
+}
+
+.icon-powerchange:before {
+  content: "\e717";
+}
+
+.icon-sync:before {
+  content: "\e718";
+}
+
+.icon-starForward:before {
+  content: "\e70f";
+}
+
+.icon-batchOpen:before {
+  content: "\e710";
+}
+
+.icon-batchdelete:before {
+  content: "\e711";
+}
+
+.icon-batchStop:before {
+  content: "\e712";
+}
+
+.icon-stopForward:before {
+  content: "\e713";
+}
+
+.icon-ic_lx_delete:before {
+  content: "\e709";
+}
+
+.icon-ic_setting:before {
+  content: "\e708";
+}
+
+.icon-dbc:before {
+  content: "\e6fe";
+}
+
+.icon-information:before {
+  content: "\e700";
+}
+
+.icon-retransmission:before {
+  content: "\e701";
+}
+
+.icon-Management:before {
+  content: "\e702";
+}
+
+.icon-basicData:before {
+  content: "\e6d7";
+}
+
+.icon-renwu1:before {
+  content: "\e64e";
+}
+
+.icon-faultDialogTitle1:before {
+  content: "\e70d";
+}
+
+.icon-renwu2:before {
+  content: "\e64f";
+}
+
+.icon-faultDialogTitle:before {
+  content: "\e70e";
+}
+
+.icon-ic_car2:before {
+  content: "\e630";
+}
+
+.icon-ic_edit:before {
+  content: "\e602";
+}
+
+.icon-ic-shengjichenggonglu:before {
+  content: "\e705";
+}
+
+.icon-toolbarbtns:before {
+  content: "\e624";
+}
+
+.icon-kaishi:before {
+  content: "\e800";
+}
+
+.icon-authorize:before {
+  content: "\e62c";
+}
+
+.icon-jinxingzhong:before {
+  content: "\e64d";
+}
+
+.icon-newspublic:before {
+  content: "\e67a";
+}
+
+.icon-icon_fabu:before {
+  content: "\e642";
+}
+
+.icon-business:before {
+  content: "\e683";
+}
+
+.icon-icon_car-shenji:before {
+  content: "\e645";
+}
+
+.icon-operationManual:before {
+  content: "\e6b0";
+}
+
+.icon-icon_nofabu-:before {
+  content: "\e6ff";
+}
+
+.icon-bind:before {
+  content: "\e636";
+}
+
+.icon-banben:before {
+  content: "\e876";
+}
+
+.icon-shanchucheliang:before {
+  content: "\e69f";
+}
+
+.icon-jinyong:before {
+  content: "\e64b";
+}
+
+.icon-redianditu:before {
+  content: "\e6b7";
+}
+
+.icon-qiyong:before {
+  content: "\e64c";
+}
+
+.icon-fullScreen:before {
+  content: "\e71a";
+}
+
+.icon-ic_log1:before {
+  content: "\e604";
+}
+
+.icon-closeFullScreen:before {
+  content: "\e71b";
+}
+
+.icon-zip1:before {
+  content: "\e607";
+}
+
+.icon-ODX:before {
+  content: "\e6ba";
+}
+
+.icon-icon-test:before {
+  content: "\e625";
+}
+
+.icon-SOanquanwenjian:before {
+  content: "\e6bb";
+}
+
+.icon-ic_dashboard:before {
+  content: "\e6f2";
+}
+
+.icon-pingtaichexing:before {
+  content: "\e6cb";
+}
+
+.icon-ic-renwu:before {
+  content: "\e706";
+}
+
+.icon-icon-icon-_zhengbian:before {
+  content: "\e8d5";
+}
+
+.icon-move:before {
+  content: "\e681";
+}
+
+.icon-shouqi:before {
+  content: "\e623";
+}
+
+.icon-zhankai:before {
+  content: "\e8d3";
+}
+
+.icon-export1:before {
+  content: "\e63e";
+}
+
+.icon-icon_close:before {
+  content: "\e643";
+}
+
+.icon-approval1:before {
+  content: "\e7c2";
+}
+
+.icon-ic_reset-password:before {
+  content: "\e71d";
+}
+
+.icon-chaxun:before {
+  content: "\ec4c";
+}
+
+.icon-ditu:before {
+  content: "\e8ad";
+}
+
+.icon-carSwitch:before {
+  content: "\e603";
+}
+
+.icon-unbind:before {
+  content: "\e644";
+}
+
+.icon-testing:before {
+  content: "\e6c6";
+}
+
+.icon-dir:before {
+  content: "\e67f";
+}
+
+.icon-queryRecord:before {
+  content: "\e6aa";
+}
+
+.icon-deleteCar:before {
+  content: "\e655";
+}
+
+.icon-children1:before {
+  content: "\e7b6";
+}
+
+.icon-info:before {
+  content: "\e601";
+}
+
+.icon-yunyingjiankong:before {
+  content: "\e605";
+}
+
+.icon-down:before {
+  content: "\e606";
+}
+
+.icon-home:before {
+  content: "\e608";
+}
+
+.icon-shijian:before {
+  content: "\e609";
+}
+
+.icon-search:before {
+  content: "\e60a";
+}
+
+.icon-chongdianguanli:before {
+  content: "\e60b";
+}
+
+.icon-refresh:before {
+  content: "\e60d";
+}
+
+.icon-cheliangjiankong:before {
+  content: "\e60f";
+}
+
+.icon-lichengtongji:before {
+  content: "\e612";
+}
+
+.icon-gengduo1:before {
+  content: "\e613";
+}
+
+.icon-ic_username:before {
+  content: "\e614";
+}
+
+.icon-lishishuju:before {
+  content: "\e615";
+}
+
+.icon-faultinfo:before {
+  content: "\e616";
+}
+
+.icon-caozuorizhi:before {
+  content: "\e617";
+}
+
+.icon-daochu:before {
+  content: "\e618";
+}
+
+.icon-huanfu:before {
+  content: "\e619";
+}
+
+.icon-carControlSys:before {
+  content: "\e600";
+}
+
+.icon-userCenterSys:before {
+  content: "\e61c";
+}
+
+.icon-function:before {
+  content: "\e61e";
+}
+
+.icon-digitalKeySys:before {
+  content: "\e61f";
+}
+
+.icon-navigationFunction:before {
+  content: "\e621";
+}
+
+.icon-loginLog:before {
+  content: "\e622";
+}
+
+.icon-lifecycleLog:before {
+  content: "\e626";
+}
+
+.icon-operationLog:before {
+  content: "\e627";
+}
+
+.icon-carManageSys:before {
+  content: "\e629";
+}
+
+.icon-carMonitor:before {
+  content: "\e62a";
+}
+
+.icon-jt-down:before {
+  content: "\e61a";
+}
+
+.icon-jt-slode:before {
+  content: "\e628";
+}
+
+.icon-close:before {
+  content: "\e60e";
+}
+
+.icon-up:before {
+  content: "\e62b";
+}
+
+.icon-step4:before {
+  content: "\e610";
+}
+
+.icon-step2:before {
+  content: "\e62d";
+}
+
+.icon-step3:before {
+  content: "\e62e";
+}
+
+.icon-step1:before {
+  content: "\e62f";
+}
+
+.icon-carMonitorSys:before {
+  content: "\ec4d";
+}
+
+.icon-user:before {
+  content: "\e631";
+}
+
+.icon-role:before {
+  content: "\e632";
+}
+
+.icon-APPconnectionStatus:before {
+  content: "\e687";
+}
+
+.icon-detail2:before {
+  content: "\e689";
+}
+
+.icon-vehicleCondition:before {
+  content: "\e68a";
+}
+
+.icon-ImportCars:before {
+  content: "\e68b";
+}
+
+.icon-carjourney:before {
+  content: "\e68c";
+}
+
+.icon-importAreas:before {
+  content: "\e68d";
+}
+
+.icon-importcarNumber:before {
+  content: "\e68e";
+}
+
+.icon-carType:before {
+  content: "\e68f";
+}
+
+.icon-export:before {
+  content: "\e690";
+}
+
+.icon-exportData:before {
+  content: "\e691";
+}
+
+.icon-importSelect2:before {
+  content: "\e692";
+}
+
+.icon-import:before {
+  content: "\e693";
+}
+
+.icon-batteryMotor:before {
+  content: "\e694";
+}
+
+.icon-electronicFence:before {
+  content: "\e695";
+}
+
+.icon-importPower:before {
+  content: "\e696";
+}
+
+.icon-more:before {
+  content: "\e697";
+}
+
+.icon-strokeDataAnalysis:before {
+  content: "\e698";
+}
+
+.icon-plugLog:before {
+  content: "\e699";
+}
+
+.icon-interfaceManage:before {
+  content: "\e69a";
+}
+
+.icon-deleteBig:before {
+  content: "\e69b";
+}
+
+.icon-messagePush:before {
+  content: "\e69d";
+}
+
+.icon-appLog:before {
+  content: "\e69e";
+}
+
+.icon-remoteControl:before {
+  content: "\e6a0";
+}
+
+.icon-controlAnalysis:before {
+  content: "\e6a1";
+}
+
+.icon-terminalManage:before {
+  content: "\e6a2";
+}
+
+.icon-terminal:before {
+  content: "\e6a3";
+}
+
+.icon-carManage:before {
+  content: "\e6a4";
+}
+
+.icon-DBCParamAuth:before {
+  content: "\e6a5";
+}
+
+.icon-MESAuthority:before {
+  content: "\e6a6";
+}
+
+.icon-setCar:before {
+  content: "\e6a7";
+}
+
+.icon-setRole:before {
+  content: "\e6a8";
+}
+
+.icon-resetPwd:before {
+  content: "\e6a9";
+}
+
+.icon-detail3:before {
+  content: "\e635";
+}
+
+.icon-ic_edit1:before {
+  content: "\e633";
+}
+
+.icon-ic_add:before {
+  content: "\e637";
+}
+
+.icon-ic_delete:before {
+  content: "\e707";
+}
+
+.icon-addTask:before {
+  content: "\e6ab";
+}
+
+.icon-dbcFile:before {
+  content: "\e6ac";
+}
+
+.icon-ECALL:before {
+  content: "\e6ad";
+}
+
+.icon-warning:before {
+  content: "\e6ae";
+}
+
+.icon-saveAll:before {
+  content: "\e6af";
+}
+
+.icon-chakanbiangengmingxi:before {
+  content: "\e6b1";
+}
+
+.icon-chakanguzhangxinxi:before {
+  content: "\e6b2";
+}
+
+.icon-seePackage:before {
+  content: "\e6b3";
+}
+
+.icon-seeTask:before {
+  content: "\e6b4";
+}
+
+.icon-children:before {
+  content: "\e6b5";
+}
+
+.icon-vehicleCar:before {
+  content: "\e6b6";
+}
+
+.icon-packaging:before {
+  content: "\e6b8";
+}
+
+.icon-geofencing:before {
+  content: "\e6b9";
+}
+
+.icon-faultCodeManage:before {
+  content: "\e6bc";
+}
+
+.icon-monitorSearch:before {
+  content: "\e6bd";
+}
+
+.icon-operUnBind:before {
+  content: "\e6be";
+}
+
+.icon-flowImport:before {
+  content: "\e6bf";
+}
+
+.icon-importDetail:before {
+  content: "\e6c0";
+}
+
+.icon-screenMap:before {
+  content: "\e6c1";
+}
+
+.icon-fullScreenFault:before {
+  content: "\e6c2";
+}
+
+.icon-switchCar:before {
+  content: "\e6c3";
+}
+
+.icon-approval:before {
+  content: "\e6c4";
+}
+
+.icon-history-s:before {
+  content: "\e6c5";
+}
+
+.icon-history-z:before {
+  content: "\e6c7";
+}
+
+.icon-addMultiTask:before {
+  content: "\e6c8";
+}
+
+.icon-downLoad:before {
+  content: "\e6c9";
+}
+
+.icon-operationReport:before {
+  content: "\e6ca";
+}
+
+.icon-operationMonitoring:before {
+  content: "\e6cc";
+}
+
+.icon-save:before {
+  content: "\e611";
+}
+
+.icon-deleteTask:before {
+  content: "\e6cd";
+}
+
+.icon-templateImport:before {
+  content: "\e6ce";
+}
+
+.icon-arrowRight:before {
+  content: "\e63b";
+}
+
+.icon-arrowDown:before {
+  content: "\e684";
+}
+
+.icon-command:before {
+  content: "\e634";
+}
+
+.icon-online:before {
+  content: "\e638";
+}
+
+.icon-report:before {
+  content: "\e639";
+}
+
+.icon-offline:before {
+  content: "\e63a";
+}
+
+.icon-baseData:before {
+  content: "\e63c";
+}
+
+.icon-system:before {
+  content: "\e63d";
+}
+
+.icon-detailCar:before {
+  content: "\e6cf";
+}
+
+.icon-seeFocus:before {
+  content: "\e6d0";
+}
+
+.icon-seeHistoryTrack:before {
+  content: "\e6d1";
+}
+
+.icon-seeHistory:before {
+  content: "\e6d2";
+}
+
+.icon-seePushLog:before {
+  content: "\e6d3";
+}
+
+.icon-lookDownload:before {
+  content: "\e6d4";
+}
+
+.icon-carMap:before {
+  content: "\e6d5";
+}
+
+.icon-chargeDiagram:before {
+  content: "\e6d6";
+}
+
+.icon-importSelect:before {
+  content: "\e6d8";
+}
+
+.icon-queryTask:before {
+  content: "\e6d9";
+}
+
+.icon-getCanFile:before {
+  content: "\e6da";
+}
+
+.icon-calculate:before {
+  content: "\e6db";
+}
+
+.icon-testing1:before {
+  content: "\e6dc";
+}
+
+.icon-limitChargingOFF:before {
+  content: "\e6dd";
+}
+
+.icon-removeRestrictions:before {
+  content: "\e6de";
+}
+
+.icon-updateNow:before {
+  content: "\e6df";
+}
+
+.icon-setFaultCode:before {
+  content: "\e6e0";
+}
+
+.icon-setFaultRule:before {
+  content: "\e6e1";
+}
+
+.icon-setAllBatteryPack:before {
+  content: "\e6e2";
+}
+
+.icon-setBatteryPack:before {
+  content: "\e6e3";
+}
+
+.icon-batchRenewal:before {
+  content: "\e6e4";
+}
+
+.icon-setODOmileage:before {
+  content: "\e6e5";
+}
+
+.icon-setUpCar:before {
+  content: "\e6e6";
+}
+
+.icon-setSelfTask:before {
+  content: "\e6e7";
+}
+
+.icon-setCommonTask:before {
+  content: "\e6e8";
+}
+
+.icon-downLoadFile:before {
+  content: "\e6e9";
+}
+
+.icon-restrictions:before {
+  content: "\e6ea";
+}
+
+.icon-limitChargingOn:before {
+  content: "\e6eb";
+}
+
+.icon-limitFastCharging:before {
+  content: "\e6ec";
+}
+
+.icon-creatInRule:before {
+  content: "\e6ed";
+}
+
+.icon-creatOutRule:before {
+  content: "\e6ee";
+}
+
+.icon-renew:before {
+  content: "\e6ef";
+}
+
+.icon-drive-start:before {
+  content: "\e6f0";
+}
+
+.icon-drive-end:before {
+  content: "\e6f1";
+}
+
+.icon-online-end:before {
+  content: "\e6f3";
+}
+
+.icon-gps:before {
+  content: "\e6f4";
+}
+
+.icon-can-no:before {
+  content: "\e6f5";
+}
+
+.icon-can-yes:before {
+  content: "\e6f7";
+}
+
+.icon-online-start:before {
+  content: "\e6f8";
+}
+
+.icon-setFaultCar:before {
+  content: "\e6f9";
+}
+
+.icon-alarmLog:before {
+  content: "\e6fa";
+}
+
+.icon-seeEletric:before {
+  content: "\e6fb";
+}
+
+.icon-seetrip:before {
+  content: "\e6fc";
+}
+
+.icon-jia:before {
+  content: "\e663";
+}
+
+.icon-jian:before {
+  content: "\e665";
+}
+
+.icon-safeLog:before {
+  content: "\e61b";
+}
+
+.icon-fullscreen:before {
+  content: "\e6f6";
+}
+
+.icon-icon_control_fault:before {
+  content: "\e61d";
+}
+
+.icon-icon_control_stream:before {
+  content: "\e63f";
+}
+
+.icon-icon_control_history:before {
+  content: "\e640";
+}
+
+.icon-icon_control_freeze:before {
+  content: "\e641";
+}
+
+.icon-printReport:before {
+  content: "\e646";
+}
+
+.icon-icon_control_clear:before {
+  content: "\e647";
+}
+
+.icon-icon_write:before {
+  content: "\e648";
+}
+
+.icon-exit-fullscreen:before {
+  content: "\e6fd";
+}
+
+.icon-refreshBig:before {
+  content: "\e649";
+}
+
+.icon-timedRefresh:before {
+  content: "\e67b";
+}
+
+.icon-deleteAll:before {
+  content: "\e7f5";
+}
+
+.icon-allCheck:before {
+  content: "\e64a";
+}
+
+.icon-retest:before {
+  content: "\e674";
+}
+
+.icon-icon_other_off:before {
+  content: "\e650";
+}
+
+.icon-icon_light_off:before {
+  content: "\e651";
+}
+
+.icon-icon_direct_off:before {
+  content: "\e652";
+}
+
+.icon-carTypeManage:before {
+  content: "\e653";
+}
+
+.icon-nfcManageMent:before {
+  content: "\e654";
+}
+
+.icon-btDataManage:before {
+  content: "\e656";
+}
+
+.icon-btKeyManage:before {
+  content: "\e657";
+}
+
+.icon-bluetoothHardware:before {
+  content: "\e658";
+}
+
+.icon-add-xtmb:before {
+  content: "\e659";
+}
+
+.icon-add-fxt:before {
+  content: "\e65a";
+}
+
+.icon-analysis:before {
+  content: "\e65b";
+}
+
+.icon-seeCode:before {
+  content: "\e65c";
+}
+
+.icon-businessunit:before {
+  content: "\e65d";
+}
+
+.icon-setParam:before {
+  content: "\e65e";
+}
+
+.icon-vehicleFilling:before {
+  content: "\e660";
+}
+
+.icon-dataDown:before {
+  content: "\e662";
+}
+
+.icon-otherInfo:before {
+  content: "\e666";
+}
+
+.icon-vehicleAddress:before {
+  content: "\e668";
+}
+
+.icon-batteryRuleAlarm:before {
+  content: "\e669";
+}
+
+.icon-messagePushStatistics:before {
+  content: "\e66b";
+}
+
+.icon-offlineReporting:before {
+  content: "\e66d";
+}
+
+.icon-vehicleConditionQuery:before {
+  content: "\e66e";
+}
+
+.icon-remoteMonitor:before {
+  content: "\e66f";
+}
+
+.icon-mileStatistics:before {
+  content: "\e670";
+}
+
+.icon-remoteControlStatistics:before {
+  content: "\e671";
+}
+
+.icon-areaStatistical:before {
+  content: "\e672";
+}
+
+.icon-logManage:before {
+  content: "\e676";
+}
+
+.icon-yuanchengrizhi:before {
+  content: "\e679";
+}
+
+.icon-year:before {
+  content: "\e67d";
+}
+
+.icon-abnormalCar:before {
+  content: "\e67e";
+}
+
+.icon-vehicleRestrictions:before {
+  content: "\e680";
+}
+
+.icon-dailyOperations:before {
+  content: "\e682";
+}
+
+.icon-cairInvalid:before {
+  content: "\e685";
+}
+
+.icon-month:before {
+  content: "\e686";
+}
+
+.icon-frozen:before {
+  content: "\e70a";
+}
+
+.icon-thaw:before {
+  content: "\e70b";
+}
+
+.icon-empower:before {
+  content: "\e70c";
+}
+
+.icon-ic_log:before {
+  content: "\e703";
+}
+
+.icon-batchOperation:before {
+  content: "\e65f";
+}
+
+.icon-detail:before {
+  content: "\e704";
+}
+
+.icon-file-excel:before {
+  content: "\e7b7";
+}
+
+.icon-gengduo:before {
+  content: "\e60c";
+}
+
+.icon-recycleBin:before {
+  content: "\e677";
+}
+
+.icon-export2:before {
+  content: "\e67c";
+}
+
+.icon-configure:before {
+  content: "\e667";
+}
+
+.icon-import1:before {
+  content: "\e747";
+}
+
+.icon-deleteCompletely:before {
+  content: "\e66c";
+}
+
+.icon-terminal1:before {
+  content: "\e664";
+}
+
+.icon-reduction:before {
+  content: "\e673";
+}
+
+.icon-zip:before {
+  content: "\e620";
+}
+
+.icon-securityAlarm:before {
+  content: "\e678";
+}
